@@ -1,6 +1,8 @@
 <script lang="ts">
 	import '../app.postcss';
 
+    export const prerender = true;
+
 	// Highlight JS
 	import hljs from 'highlight.js/lib/core';
 	import 'highlight.js/styles/github-dark.css';
