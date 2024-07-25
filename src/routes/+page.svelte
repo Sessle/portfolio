@@ -6,7 +6,7 @@
 	const email = "sethlee1997@gmail.com";
 </script>
 
-<div class="container h-full w-1/2 mx-auto flex flex-col space-y-16 justify-center items-center my-16">
+<div class="container h-full w-3/4 md:w-1/2 mx-auto flex flex-col space-y-16 justify-center items-center my-16">
 
 	<!-- Me -->
 	<div class="card w-full">
@@ -31,7 +31,7 @@
 			<h3 class="h3">Skills</h3>
 		</header>
 		<section class="p-4 bg-amber-700 rounded-b-2xl">
-			<div class="flex flex-row space-x-2 justify-evenly items-center">
+			<div class="flex flex-row space-x-2 justify-evenly items-center overflow-x-scroll pb-2">
 				<i class="fa-brands fa-html5 fa-2xl" title="HTML5"></i>
 				<i class="fa-brands fa-css3-alt fa-2xl" title="CSS3"></i>
 				<i class="fa-brands fa-square-js fa-2xl" title="Javascript"></i>
