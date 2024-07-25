@@ -6,6 +6,10 @@
 	const email = "sethlee1997@gmail.com";
 </script>
 
+<head>
+	<title>Seth's Portfolio</title>
+</head>
+
 <div class="container h-full w-3/4 md:w-1/2 mx-auto flex flex-col space-y-16 justify-center items-center my-16">
 
 	<!-- Me -->
